@@ -2,7 +2,7 @@
 # Name:         Piano Hagens
 # Date:         10/11/2016
 # Description:  ProgramsA will calculate sales coffee at $10.50/lb + shipping $.86/lb + $1.50 fixed cost. 
-#               ProgramsB will calculate how much need to save per month in order to reach $1,125,000 at age 68.           
+#                        
 
 # ProgramsA will calculate sales coffee at $10.50/lb + shipping $.86/lb + $1.50 fixed cost.
 def mainA():
